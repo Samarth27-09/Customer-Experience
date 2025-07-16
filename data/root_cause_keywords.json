@@ -1,0 +1,6 @@
+{
+  "billing_issues": ["payment", "charge", "billing", "refund", "invoice"],
+  "shipping_delays": ["delayed", "late", "shipping", "delivery", "tracking"],
+  "product_quality": ["defective", "broken", "quality", "damaged", "faulty"],
+  "account_access": ["login", "password", "account", "access", "locked"]
+}

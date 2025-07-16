@@ -1,0 +1,10 @@
+ 
+This is a placeholder for your Power BI dashboard file. 
+You'll need to create the actual .pbix file in Power BI Desktop. 
+ 
+Dashboard should include: 
+- CSAT trends by shift and agent 
+- TTR (Time to Resolution) analysis 
+- FRT (First Response Time) metrics 
+- Root cause analysis visualization 
+- Operational bottleneck identification 
