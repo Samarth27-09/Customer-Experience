@@ -4,7 +4,7 @@ This repository contains a comprehensive data analytics project aimed at diagnos
 
 -----
 
-## 🎯 Project Objectives
+## Project Objectives
 
 The core objectives of this analysis are to provide data-driven answers to critical business questions:
 
@@ -14,7 +14,7 @@ The core objectives of this analysis are to provide data-driven answers to criti
 
 -----
 
-## 💾 Dataset
+## Dataset
 
 The analysis utilizes the **Customer Support Ticket Dataset**, a collection of anonymized support interactions.
 
@@ -38,7 +38,7 @@ This dataset provides a granular view of the customer support lifecycle. Each re
 
 -----
 
-## 🔑 Key Tables Used
+## Key Tables Used
 
 The analysis relies on a primary data table and two derivative tables created during the workflow.
 
@@ -50,7 +50,7 @@ The analysis relies on a primary data table and two derivative tables created du
 
 -----
 
-## 🛠️ Tools Used
+##  Tools Used
 
   * **SQL**: Used for its efficiency in handling large-scale data aggregation. The analysis involved complex `JOIN`s, `GROUP BY` clauses, and window functions to calculate metrics across different dimensions from the relational database.
   * **Python (Pandas, NLTK)**: Employed for all data wrangling and text analysis tasks. The **Pandas** library was essential for data cleaning and transformation, while **NLTK** (Natural Language Toolkit) was used for tokenization, stop-word removal, and frequency distribution during the keyword analysis phase.
@@ -58,7 +58,7 @@ The analysis relies on a primary data table and two derivative tables created du
 
 -----
 
-## 🔄 Project Workflow
+## Project Workflow
 
 The project was executed in a sequential workflow, from raw data ingestion to final visualization.
 
@@ -69,7 +69,7 @@ The project was executed in a sequential workflow, from raw data ingestion to fi
 
 -----
 
-## 📊 Key Metrics
+## Key Metrics
 
 The following KPIs were central to the analysis, each defined by a specific calculation:
 
@@ -85,7 +85,7 @@ The following KPIs were central to the analysis, each defined by a specific calc
 
 -----
 
-## 🔬 Analysis
+## Analysis
 
 The analytical approach was structured to address the core project objectives through distinct methodologies.
 
@@ -95,7 +95,7 @@ The analytical approach was structured to address the core project objectives th
 
 -----
 
-## 💡 Insights
+## Insights
 
 The analysis produced several actionable insights with direct implications for business strategy:
 
@@ -105,7 +105,7 @@ The analysis produced several actionable insights with direct implications for b
 
 -----
 
-## 📁 Folder Structure
+## Folder Structure
 
 ```
 project-root/
@@ -121,7 +121,7 @@ project-root/
 
 -----
 
-## ▶️ Run the Project
+## Run the Project
 
 To reproduce the analysis and view the results, please follow these steps:
 
